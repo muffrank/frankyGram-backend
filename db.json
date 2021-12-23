@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "user": "John",
+      "text": "Hello World!"
+    },
+    {
+      "user": "John",
+      "text": "Hello World!"
+    },
+    {
+      "user": "John",
+      "text": "Hello World!"
+    },
+    {
+      "user": "John",
+      "text": "Hello World!"
+    },
+    {
+      "user": "John",
+      "text": "Hello World!"
+    }
+  ]
+}
